@@ -1,6 +1,7 @@
 # Klok
 
 **Version 1.0.0**
+
 Op deze site is een klok te zien. de klok update zichzelf elke seconde. 
 Dit houd in dat de pagina niet handmatig opnieuw geladen hoeft te worden.
 
